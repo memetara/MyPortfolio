@@ -1,0 +1,21 @@
+[
+    {
+      "role": "Software Application Developer",
+      "organisation": "Koch Business Solutions",
+      "startDate": "Aug, 2021",
+      "endDate": "Present",
+      "experiences": ["Worked on Order Management", "Reduced load times by 50%"],
+      "imageSrc": "history/koch.png"
+    },
+    {
+      "role": "SWE Intern",
+      "organisation": "Koch Business Solutions",
+      "startDate": "March, 2021",
+      "endDate": "July, 2021",
+      "experiences": [
+        "Worked on component library",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/koch.png"
+    }
+  ]
